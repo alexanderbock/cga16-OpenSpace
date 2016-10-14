@@ -1,4 +1,5 @@
-# OpenSpace -- Changing the narrative of public disseminations from **what** to **how**
+Title: OpenSpace -- Changing the narrative of public disseminations from **what** to **how**
+Authors: Alexander Bock, Emil Axelsson, Carter Emmart, Masha Kuznetsova, Anders Ynnerman
 
 # Introduction
 
@@ -87,14 +88,18 @@ ESA's Rosetta mission orbited the comet 67P/Churyumov-Gerasimenko between August
 Osiris Rex is a NASA mission that will orbit the asteroid Bennu and perform a sample return mission. It launched in September 2016 and will end with a landing in 2023. During its stay at the asteroid, Osiris Rex will take detailed images of the entire surface of the asteroid. This information is then used to select a sample site from which the asteroid samples will be collected. In an event at the American Museum of Natural History, one of mission scientists explained the entire plan of the mission from launch to touch down to the public audience (see Figure XX). This mission is especially interesting as the space craft has to change its geometry to be able to collect samples from the asteriod without touching it or contaminating the samples.
 
 ## Space Weather
-- Bringing the scientist tools (iSWA) into planetariums
-- NASA's Living with a Star program
+Space Weather research is concerned with plasma conditions in the solar systems that are ultimately caused by the Sun. These conditions can have great impact on both satellites as well as impact life on Earth due to increased radiation, thus making predictions of the activities on the Sun and their impacts very important. Combining this with the complicted topic warrants the use of visualization techniques to bridge the gap between expert knowledge and public understanding. In order to achieve this, we integrated the scientists Integrated Space Weather Analysis toolkit into *OpenSpace* such that the results can be directly disseminated to the public using the same analysis tools used by the experts. This also ties directly into NASA's Living with a Star program, whose mission is to improve the understanding of the Sun and how it affects the entire solar system. One part of this work that deals with improving the forecasting capabilities by producing comparisons between simulations and in situ measurements was presented previously [6].
 
 ## Globe Browsing
 
-[1] Sumners, Carolyn, and Patricia Reiff. "Creating Full-Dome Experiences in the New Digital Planetarium." In NASA Office of Space Science Education and Public Outreach Conference, vol. 319, p. 155. 2004.
-[2] Goldberg, David. "What every computer scientist should know about floating-point arithmetic." ACM Computing Surveys (CSUR) 23, no. 1 (1991): 5-48.
-[3] Klashed, Staffan, Per Hemingsson, Carter Emmart, Matthew Cooper, and Anders Ynnerman. "Uniview-Visualizing the Universe." Eurographics 2010-Areas Papers (2010).
-[4] Mellinger, Axel. "A color all-sky panorama image of the Milky Way." Publications of the Astronomical Society of the Pacific 121, no. 885 (2009): 1180.
-[5] Everitt, Cass, Ashu Rege, and Cem Cebenoyan. "Hardware shadow mapping." White paper, nVIDIA 2 (2001).
-[X] Aragon-Calvo, Miguel A., and Mark SubbaRao. "A Flight through the Universe." Computing in Science & Engineering 17, no. 6 (2015): 96-102.
+
+# Conclusion
+
+[1] Carolyn Sumners and Patricia Reiff. "Creating Full-Dome Experiences in the New Digital Planetarium." In NASA Office of Space Science Education and Public Outreach Conference, vol. 319, p. 155. 2004.
+[2] David Goldberg. "What every computer scientist should know about floating-point arithmetic." ACM Computing Surveys 23, no. 1 (1991).
+[3] Staffan Klashed, Per Hemingsson, Carter Emmart, Matthew Cooper, and Anders Ynnerman. "Uniview-Visualizing the Universe." Eurographics 2010-Areas Papers (2010).
+[4] Axel Mellinger. "A color all-sky panorama image of the Milky Way." Publications of the Astronomical Society of the Pacific 121, no. 885 (2009): 1180.
+[5] Cass Everitt, Ashu Rege, and Cem Cebenoyan. "Hardware shadow mapping." White paper, nVIDIA 2 (2001).
+[6] Alexander Bock, Asher Pembroke, M. Leila Mays, Lutz Rastaetter, Timo Ropinski, and Anders Ynnerman. "Visual verification of space weather ensemble simulations." In 2015 IEEE Scientific Visualization Conference (2015).
+
+[X] Miguel A. Aragon-Calvo, and Mark SubbaRao. "A Flight through the Universe." Computing in Science & Engineering 17, no. 6 (2015).
