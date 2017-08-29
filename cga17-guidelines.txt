@@ -1,0 +1,25 @@
+ - The abstract should be no more than 150 words and should describe the overall focus of your manuscript.
+
+ - Keywords should closely reflect your topic, selecting from the provided keywords that are taken from the ACM taxonomy.
+
+ - Send a biographical sketch of each author with the final, accepted manuscript. In 60 words or less, the bio should list current position, technical interests, education, professional honors, professional affiliations (optional), and contact address.
+
+ - At least one author must sign a release form transferring copyright to the IEEE before we can publish an article.
+
+ - We accept Word, plain text, Postscript, and PDF files. We do not accept LaTeX or LaTeX-sourced files.
+
+ - Please do not attempt to upload a file larger than 20 MB.
+
+ - Set the paper size in your text document to 8 1/2 inches wide by 11 inches high rather than A4. Margins should be at least one inch on the left and right and at least 1.5 inches from the top and bottom. Your manuscript must have page numbers on every page at least one inch from the bottom of each page
+
+ - Please do not include footnotes in your submission
+
+ - Peer-reviewed feature articles submitted to IEEE CG&A should not exceed 8,000 words, including the main text, abstract, keywords, bibliography, biographies, and table text, where a page is approximately 800 words. Articles should include no more than 10 figures or images. Each 1/4 page figure, image, and table counts for approx. 200 words. Note that all tables, images, and illustrations must be appropriately scaled and legible; larger elements should be accounted for accordingly with respect to word count. Please limit the number of references to the most relevant and ensure to delineate your work from relevant past articles in CG&A. Furthermore, avoid an excessive number of references to published work that might only be marginally relevant. Consider instead providing such pertinent background material in sidebars for nonexpert readers. We also strongly encourage you to submit multimedia (videos, podcasts, and so on) to enhance your article. 
+
+ - Please number your references in the order in which they appear.  On average, an article should have 10–20 references—sometimes more in well-justified situations such as survey or tutorial pieces
+
+
+ 
+Source
+ - https://www.computer.org/cga/2017/03/24/special-issue-on-applied-visualization-call-for-papers/
+ - https://www.computer.org/web/peer-review/magazines
